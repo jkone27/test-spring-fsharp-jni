@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <IsAotCompatible>true</IsAotCompatible>
+    <PublishAot>true</PublishAot>
+    <ExportSymbols>true</ExportSymbols>
+    <OutputType>Library</OutputType>
+    <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+    <OutputName>libgreet</OutputName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Lib.fs" />
+  </ItemGroup>
+
+</Project>

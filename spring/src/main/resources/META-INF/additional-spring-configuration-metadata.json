@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "native.library.path",
+  "type": "java.lang.String",
+  "description": "A description for 'native.library.path'"
+}]}
