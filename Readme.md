@@ -1,4 +1,4 @@
-# Try invoke F# from springboot
+# Try invoke F# 🦔 from springboot 🍃☕️
 
 ## 1 - compile and publish some sample F# code to AOT  
 
